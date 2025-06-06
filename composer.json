@@ -2,6 +2,7 @@
     "name": "phillarmonic/php-rdkafka-stubs",
     "description": "Rdkafka extension stubs for your IDE",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Phillarmonic Software",
