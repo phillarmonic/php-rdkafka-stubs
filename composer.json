@@ -1,5 +1,5 @@
 {
-    "name": "kwn/php-rdkafka-stubs",
+    "name": "phillarmonic/php-rdkafka-stubs",
     "description": "Rdkafka extension stubs for your IDE",
     "license": "MIT",
     "authors": [
