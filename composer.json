@@ -2,7 +2,7 @@
     "name": "phillarmonic/php-rdkafka-stubs",
     "description": "Rdkafka extension stubs for your IDE",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
         {
             "name": "Phillarmonic Software",
@@ -17,11 +17,5 @@
         "psr-4": {
             "Kafka\\": "src/"
         }
-    },
-    "require": {
-        "ext-rdkafka": ">=6.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^8.2.4"
     }
 }
